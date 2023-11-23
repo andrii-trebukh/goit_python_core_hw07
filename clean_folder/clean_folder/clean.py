@@ -1,5 +1,3 @@
-#!/bin/python3
-
 import re
 from sys import argv
 from pathlib import Path
