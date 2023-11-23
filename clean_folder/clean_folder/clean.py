@@ -136,6 +136,11 @@ def main():
     print(f"\nFound next known file extensions: {known_exts}")
     print(f"\nFound next unknown file extensions: {unknown_exts}")
     
-    
+
+def clean_folder():
+    main()
+    exit(0)
+
+
 if __name__ == "__main__":
     main()

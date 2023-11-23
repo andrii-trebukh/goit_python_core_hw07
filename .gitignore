@@ -1,0 +1,4 @@
+clean_folder/folder_cleaner.egg-info
+clean_folder/clean_folder/__pycache__
+clean_folder/dist
+clean_folder/build
